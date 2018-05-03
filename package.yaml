@@ -21,10 +21,11 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
-- swagger2
 - insert-ordered-containers
 - lens
 - text
+- swagger2
+- containers
 
 library:
   source-dirs: src
